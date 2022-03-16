@@ -1,0 +1,14 @@
+body {
+	color: $white;
+	background: $black;
+	font-family: $font-main;
+
+	h1 {
+		text-transform: uppercase;
+		color: $blue;
+
+		&:hover {
+			color: lighten($blue, 10%);
+		}
+	}
+}
