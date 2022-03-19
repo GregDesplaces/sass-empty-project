@@ -6,4 +6,4 @@
 - Installer les dépendances avec ```npm install```
 - Lancer la transpilation avec ```npm run dev```
 
-[cloner avec vscode]('https://github.com/GregDesplaces/sass-empty-project/blob/master/clone-with-vscode.gif')
+[cloner avec vscode](https://github.com/GregDesplaces/sass-empty-project/blob/master/clone-with-vscode.gif)
