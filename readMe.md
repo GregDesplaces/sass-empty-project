@@ -6,4 +6,4 @@
 - Installer les dépendances avec ```npm install```
 - Lancer la transpilation avec ```npm run dev```
 
-[cloner avec vscode]('clone-with-vscode.gif')
+[cloner avec vscode]('./clone-with-vscode.gif')
