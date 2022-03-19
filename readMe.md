@@ -1,5 +1,4 @@
-# [DWWM - Web Statique - 4.SASS]
-## Création d'un projet vide pour utiliser sass
+# [DWWM - Web Statique - 4.SASS] Création d'un projet vide pour utiliser sass
 
 
 ### Utilisation
