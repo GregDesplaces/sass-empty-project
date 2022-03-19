@@ -1,6 +1,6 @@
-# Création d'un projet vide pour utiliser sass pour le module web statique des formation DWWM
+# [DWWM - Web Statique - 4.SASS]
+## Création d'un projet vide pour utiliser sass
 
-Ce dépot vour permet d'utiliser sass directement en ayant uniquement des notions de web statique.
 
 ### Utilisation
 
